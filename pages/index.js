@@ -148,6 +148,8 @@ class NewsList extends Component{
             margin: 0 auto;
           }
           .column-wrap{
+            position: relative;
+            top: 90px;
             background:#fff;
           }
           .finish-tips {

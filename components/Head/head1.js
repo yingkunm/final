@@ -29,7 +29,7 @@ export default function head1() {
                 background-color: rgb(211, 60, 60);
                 height: 90px;
                 width:100%;
-                
+                position:fixed;
             }
             .header {
                 display: flex;
