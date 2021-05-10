@@ -165,6 +165,7 @@ class NewsList extends Component{
             padding: 0;
             text-align: center;
             color: #000000;
+            overflow: hidden;
           }
           .container {
             min-height: 100vh;
